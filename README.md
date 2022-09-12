@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/crehana-studentxp/react_fundamentos-dulcinea_pena">
+  <a href="https://github.com/crehana-studentxp/tableau_introduccion-francisco_galan">
     <img src="images/project.png" alt="Logo" width="80" height="80">
   </a>
 
