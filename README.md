@@ -25,7 +25,7 @@
 
 El curso, sus ejemplos y proyectos propuestos están desarrollados en Tableau.
 
-* [Tableu](https://www.tableau.com/trial/download-tableau)
+* [Tableau](https://www.tableau.com/trial/download-tableau)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
